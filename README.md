@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Nodejs Web App  
+- 🌱 I’m currently learning c++, it's my hobby to learn new programming languages. I have basic and intermediate understanding of Python and Javascript.
+
 <!--
 **tariqbaater/tariqbaater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
